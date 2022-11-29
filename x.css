@@ -1,0 +1,37 @@
+body{
+    background-color: bisque;   
+}
+#x{
+    text-align: center;
+}
+img{
+    border-radius: 100%;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    background-position: right top;
+}
+#box{
+    
+    background-color: aliceblue;
+}
+#box2{
+    color: aliceblue;
+    background-color: rgb(41, 110, 50);
+    text-align: center;
+}
+#box3{
+
+    color: aliceblue;
+    background-color: rgb(243, 156, 156);
+    text-align: center;
+}
+.oo{
+    text-align: center;
+}
+#box4{
+    
+    color: aliceblue;
+    background-color: rgb(243, 95, 9);
+    text-align: center;
+}
