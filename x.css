@@ -1,5 +1,5 @@
-body{
-    background-color: bisque;   
+#body{
+   background-color: yellow;
 }
 #x{
     text-align: center;
@@ -8,11 +8,10 @@ img{
     border-radius: 100%;
     width: 300px;
     height: 300px;
-    text-align: center;
+    text-align: right;
     background-position: right top;
 }
 #box{
-    
     background-color: aliceblue;
 }
 #box2{
@@ -35,3 +34,11 @@ img{
     background-color: rgb(243, 95, 9);
     text-align: center;
 }
+
+#box5{
+    
+    color: rgb(0, 0, 0);
+    background-color: rgb(240, 219, 151);
+    text-align: center;
+}
+
